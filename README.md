@@ -68,6 +68,31 @@ Comprehensive ML framework bridging clinical risk prediction with healthcare res
 ### [Markov-Based Predictive Maintenance](https://cyranothebard.github.io/projects/markov-maintenance/)
 Interpretable AI for aviation engine health monitoring with regulatory compliance.
 
+## 🎓 Education & Credentials
+
+**Master of Science** - Information Management, University of Washington  
+**Bachelor of Science** - Polymer & Fiber Engineering, Georgia Institute of Technology  
+**Professional Certifications** - AWS Solutions Architect, Google Cloud Professional ML Engineer
+
+## 🚀 Professional Journey
+
+My path to data science leadership began with a simple realization: the most impactful technology bridges the gap between what's technically possible and what actually solves real problems. Starting as an automation engineer in US manufacturing, I learned to translate complex systems into measurable business value—a skill that became the foundation of everything that followed.
+
+As I evolved through analytics and data science roles, I discovered my strongest impact comes not just from building sophisticated models, but from orchestrating entire technical teams and stakeholder ecosystems around data-driven solutions. Whether designing IoT systems for manufacturing, optimizing healthcare data pipelines, or implementing NLP solutions for financial services, my focus remained consistent: connecting technical depth with strategic business outcomes.
+
+This trajectory naturally led me to Germany. The intersection of Europe's energy transition, Industry 4.0 initiatives, and the DACH region's commitment to engineering excellence creates unique opportunities for ML applications that demand both innovation and reliability. Having established my technical foundation in the US, I'm now strategically positioned to help German companies scale AI initiatives while meeting the quality and compliance standards that define success in European markets.
+
+## 👨‍🏫 Teaching & Mentorship
+
+**Flatiron School** - Data Science Instructor  
+Teaching comprehensive data science curriculum to career-changing professionals, covering Python, machine learning, and production deployment practices.
+
+**BlackRock** - Data Science Community of Practice Founder  
+Established and led a cross-functional community of practice, bringing together data scientists, engineers, and business stakeholders to share knowledge and best practices across the organization.
+
+**STEAMTruck** - High School Student Mentor  
+Mentoring high school students in STEAM (Science, Technology, Engineering, Arts, Mathematics) through hands-on projects and career guidance, inspiring the next generation of technical leaders.
+
 ## 📈 Current Focus
 
 **Transitioning to Senior Technical Leadership** roles in the DACH region, where I can apply my production ML expertise to drive business impact in German-speaking markets.
