@@ -42,11 +42,17 @@ A manufacturing data platform demonstrating data ingestion, quality monitoring, 
 
 Focus: Data Foundations
 
+- Website: https://bridge-ops.ai/projects/industrial-iot-data-platform/
+- Repository: https://github.com/cyranothebard/industrial-iot-data-platform
+
 ### Engineering Knowledge Assistant
 
 A multilingual retrieval-augmented knowledge system for engineering organizations, featuring document governance, semantic search, citations, and evaluation frameworks.
 
 Focus: Knowledge Systems
+
+- Website: https://bridge-ops.ai/projects/engineering-knowledge-assistant/
+- Repository: https://github.com/cyranothebard/engineering-knowledge-assistant
 
 ### Predictive Maintenance Decision Intelligence
 
@@ -54,11 +60,17 @@ A reliability engineering and decision-support platform combining health scoring
 
 Focus: Decision Intelligence
 
+- Website: https://bridge-ops.ai/projects/predictive-maintenance-platform-v2/
+- Repository: https://github.com/cyranothebard/Markov_Based_Predictive_Maintenance
+
 ### BridgeOps Professional Website
 
 The public home of my consulting, portfolio, and thought leadership work.
 
 Focus: Industrial AI Strategy and Communication
+
+- Website: https://bridge-ops.ai/
+- Repository: https://github.com/cyranothebard/professional-website
 
 ---
 
