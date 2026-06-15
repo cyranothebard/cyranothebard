@@ -1,116 +1,84 @@
-# Hi there, I'm Brandon Lewis 👋
+# Brandon Lewis
 
-<div align="center">
+## Industrial AI | Data Platforms | Technical Product Leadership
 
-![Portfolio](https://img.shields.io/badge/Portfolio-cyranothebard.github.io-blue?style=for-the-badge&logo=github)
-![Location](https://img.shields.io/badge/Location-Lake_Constance,_Germany-green?style=for-the-badge&logo=location)
-![Focus](https://img.shields.io/badge/Focus-DACH_Market-orange?style=for-the-badge&logo=target)
+I help organizations bridge the gap between operations, data, and AI.
 
-**Senior Data Scientist & Technical Leader**  
-*Delivering production-ready ML solutions with $10M+ business impact*
+My background combines industrial engineering, automation, analytics, and machine learning. Over the past 15 years I have worked across manufacturing, logistics, healthcare, and financial services, helping organizations improve decision-making through better systems, data, and technology.
 
-</div>
+Today my work focuses on the intersection of:
 
-## 🚀 What I Do
-
-I architect and deliver **production-ready ML solutions** that drive real business impact across energy, healthcare, and manufacturing sectors. My focus is on the **DACH market** (Germany, Austria, Switzerland) where I combine technical excellence with deep understanding of European regulatory requirements.
-
-## 💼 Recent Achievements
-
-| Project | Impact | Technology |
-|---------|--------|------------|
-| **Energy Grid Optimization** | $2-5M annual value | PyTorch LSTM, AWS |
-| **Healthcare Risk Prediction** | 6.2M+ patients served | Healthcare ML, GDPR |
-| **Predictive Maintenance** | $8.4M annual savings | Markov Chains, MLOps |
-
-## 🛠️ Technical Stack
-
-**Machine Learning & AI**
-- Deep Learning (PyTorch, LSTM, Transformers)
-- Time Series Forecasting & Anomaly Detection
-- Interpretable AI & Model Selection
-- Production ML Engineering (MLOps)
-
-**Data & Cloud**
-- Large-scale Data Processing (Pandas, Spark)
-- Cloud Platforms (AWS, Azure, GCP)
-- Real-time Data Pipelines
-- Database Design & Optimization
-
-**Business & Leadership**
-- ROI Analysis & Business Case Development
-- Cross-functional Team Leadership
-- Regulatory Compliance (GDPR, HIPAA, EASA)
-- Stakeholder Communication
-
-## 🌍 DACH Market Expertise
-
-- **Energiewende** – Grid modernization and renewable integration
-- **Industry 4.0** – Predictive maintenance and industrial IoT
-- **Healthcare AI** – GDPR-compliant clinical decision support
-- **Regulatory Compliance** – EASA, FDA, and EU standards
-
-## 🎯 Key Differentiators
-
-- **Production-Ready Focus** – Not just research, but deployable solutions
-- **Business Impact** – Quantified ROI and cost savings ($10M+ total impact)
-- **Interpretable AI** – Explainable models for safety-critical applications
-- **Quality Engineering** – 95%+ test coverage with comprehensive documentation
-
-## 📊 Featured Projects
-
-### [Energy Recommendation System](https://cyranothebard.github.io/projects/energy-recommendation/)
-Intelligent demand response system preventing grid blackouts during extreme weather events.
-
-### [Heart Failure Readmission Prediction](https://cyranothebard.github.io/projects/heart-failure-readmission/)
-Comprehensive ML framework bridging clinical risk prediction with healthcare resource optimization.
-
-### [Markov-Based Predictive Maintenance](https://cyranothebard.github.io/projects/markov-maintenance/)
-Interpretable AI for aviation engine health monitoring with regulatory compliance.
-
-## 🎓 Education & Credentials
-
-**Master of Science** - Information Management, University of Washington  
-**Bachelor of Science** - Polymer & Fiber Engineering, Georgia Institute of Technology  
-**Professional Certifications** - AWS Solutions Architect, Google Cloud Professional ML Engineer
-
-## 🚀 Professional Journey
-
-My path to data science leadership began with a simple realization: the most impactful technology bridges the gap between what's technically possible and what actually solves real problems. Starting as an automation engineer in US manufacturing, I learned to translate complex systems into measurable business value—a skill that became the foundation of everything that followed.
-
-As I evolved through analytics and data science roles, I discovered my strongest impact comes not just from building sophisticated models, but from orchestrating entire technical teams and stakeholder ecosystems around data-driven solutions. Whether designing IoT systems for manufacturing, optimizing healthcare data pipelines, or implementing NLP solutions for financial services, my focus remained consistent: connecting technical depth with strategic business outcomes.
-
-This trajectory naturally led me to Germany. The intersection of Europe's energy transition, Industry 4.0 initiatives, and the DACH region's commitment to engineering excellence creates unique opportunities for ML applications that demand both innovation and reliability. Having established my technical foundation in the US, I'm now strategically positioned to help German companies scale AI initiatives while meeting the quality and compliance standards that define success in European markets.
-
-## 👨‍🏫 Teaching & Mentorship
-
-**Flatiron School** - Data Science Instructor  
-Teaching comprehensive data science curriculum to career-changing professionals, covering Python, machine learning, and production deployment practices.
-
-**BlackRock** - Data Science Community of Practice Founder  
-Established and led a cross-functional community of practice, bringing together data scientists, engineers, and business stakeholders to share knowledge and best practices across the organization.
-
-**STEAMTruck** - High School Student Mentor  
-Mentoring high school students in STEAM (Science, Technology, Engineering, Arts, Mathematics) through hands-on projects and career guidance, inspiring the next generation of technical leaders.
-
-## 📈 Current Focus
-
-**Transitioning to Senior Technical Leadership** roles in the DACH region, where I can apply my production ML expertise to drive business impact in German-speaking markets.
-
-**Background**: Georgia Tech engineer with 7 years technical sales experience, now based in Germany (Lake Constance) with deep understanding of European markets.
-
-## 🔗 Connect & Explore
-
-- **Portfolio**: [cyranothebard.github.io](https://cyranothebard.github.io/)
-- **Technical Blog**: [English](https://cyranothebard.github.io/blog/en/) | [German](https://cyranothebard.github.io/blog/)
-- **LinkedIn**: [Brandon Lewis](https://linkedin.com/in/brandon-lewis-data-science)
+- Industrial AI
+- Data Platforms
+- Knowledge Systems
+- Decision Intelligence
+- Workflow Automation
+- Technical Product Management
 
 ---
 
-<div align="center">
+## The BridgeOps Framework
 
-**Ready to discuss how production-ready ML can drive your business impact?**
+Many AI initiatives fail because organizations focus on models before they establish the operational foundations required to support them.
 
-[View Full Portfolio](https://cyranothebard.github.io/) | [Contact Me](https://cyranothebard.github.io/about)
+I use the BridgeOps Framework to think about digital transformation as a progression:
 
-</div>
+Data -> Knowledge -> Intelligence -> Automation
+
+Each layer builds on the previous one:
+
+- Data creates visibility into operations.
+- Knowledge makes information accessible and reusable.
+- Intelligence supports decision-making.
+- Automation enables scalable execution.
+
+---
+
+## Featured Projects
+
+### Industrial IoT Data Platform
+
+A manufacturing data platform demonstrating data ingestion, quality monitoring, observability, and operational analytics using a modern medallion architecture.
+
+Focus: Data Foundations
+
+### Engineering Knowledge Assistant
+
+A multilingual retrieval-augmented knowledge system for engineering organizations, featuring document governance, semantic search, citations, and evaluation frameworks.
+
+Focus: Knowledge Systems
+
+### Predictive Maintenance Decision Intelligence
+
+A reliability engineering and decision-support platform combining health scoring, Markov modeling, remaining useful life estimation, and maintenance recommendations.
+
+Focus: Decision Intelligence
+
+### BridgeOps Professional Website
+
+The public home of my consulting, portfolio, and thought leadership work.
+
+Focus: Industrial AI Strategy and Communication
+
+---
+
+## Current Interests
+
+- Industrial AI
+- Manufacturing Analytics
+- Engineering Knowledge Management
+- Data Governance
+- AI Product Management
+- Human-Centered Automation
+- Technical Leadership
+
+---
+
+## Connect
+
+- Website: bridge-ops.ai
+- LinkedIn: linkedin.com/in/brandon-lewis
+- Location: Lindau, Bavaria, Germany
+- Work Authorization: Germany (Aufenthaltserlaubnis - Familienangehoriger)
+
+I am currently open to opportunities in Industrial AI, Data & AI Platforms, Technical Product Management, and Digital Transformation across Germany, Switzerland, and remote-first organizations.
