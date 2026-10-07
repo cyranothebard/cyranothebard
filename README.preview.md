@@ -2,7 +2,7 @@
 
 _Preview draft for profile README review. Live profile README remains in README.md._
 
-> I build at the boundary between industrial systems, data and AI, and production software.
+<h3 align="center">I build at the boundary between industrial systems, data and AI, and production software.</h3>
 
 I work on industrial AI and data/AI solution architecture with a foundation in industrial engineering and automation. My work has progressively expanded the portion of technical problems I can own: from operational systems and data foundations, to knowledge and decision intelligence, to production-oriented AI delivery.
 
@@ -122,6 +122,6 @@ I publish technical notes and architecture decisions to make trade-offs explicit
 ## Connect
 
 - Portfolio / BridgeOps: https://bridge-ops.ai
-- LinkedIn: https://linkedin.com/in/brandon-lewis
+- LinkedIn: https://www.linkedin.com/in/lewisbrandonk
 - Selected repositories: https://github.com/cyranothebard?tab=repositories
 - Contact: https://bridge-ops.ai/kontakt/
