@@ -122,6 +122,6 @@ I publish technical notes and architecture decisions to make trade-offs explicit
 ## Connect
 
 - Portfolio / BridgeOps: https://bridge-ops.ai
-- LinkedIn: https://linkedin.com/in/brandon-lewis
+- LinkedIn: https://www.linkedin.com/in/lewisbrandonk
 - Selected repositories: https://github.com/cyranothebard?tab=repositories
 - Contact: https://bridge-ops.ai/kontakt/
