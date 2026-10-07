@@ -2,7 +2,7 @@
 
 _Preview draft for profile README review. Live profile README remains in README.md._
 
-> I build at the boundary between industrial systems, data and AI, and production software.
+<p align="center"><strong>I build at the boundary between industrial systems, data and AI, and production software.</strong></p>
 
 I work on industrial AI and data/AI solution architecture with a foundation in industrial engineering and automation. My work has progressively expanded the portion of technical problems I can own: from operational systems and data foundations, to knowledge and decision intelligence, to production-oriented AI delivery.
 
